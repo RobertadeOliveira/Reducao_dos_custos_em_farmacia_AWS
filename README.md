@@ -21,6 +21,7 @@ Etapa 3:
 Nome da ferramenta: AWS Lambda
 Foco da ferramenta: Computação sem servidor
 Descrição de caso de uso: Execução de código em resposta a eventos, eliminando a necessidade de gerenciar servidores.
+
 3️⃣ Conclusão
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado aumento da eficiência e produtividade, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
